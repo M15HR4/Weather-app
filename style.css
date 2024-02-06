@@ -20,7 +20,7 @@ body {
     width: 80%;
     max-width: 500px;
     height: auto;
-    background: linear-gradient(50deg, #00feba, #5b548a);
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
